@@ -1,6 +1,6 @@
 # Plantilla HTML Bootstrap
 
-Plantilla HTML Bootstrap v3 de la clase de cursos tech.
+Plantilla HTML Bootstrap 3 de la clase de cursos tech.
 
 Esta plantilla esta basado de la plantilla premium de referencia themeforest Yankee:
 
